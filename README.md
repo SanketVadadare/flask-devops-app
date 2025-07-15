@@ -17,3 +17,4 @@ The goal is to showcase automation of Docker image builds and pushes whenever co
 
 ## 📁 Project Structure
 
+https://drive.google.com/file/d/16bCVthi6Afc8NqCT5zGFpe4N5f2usN75/view?usp=drive_link
